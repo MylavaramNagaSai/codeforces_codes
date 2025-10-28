@@ -16,4 +16,4 @@ This is done using the [CFPusher](https://github.com/SarJ2004/cf-pusher) browser
 
 You can see my stats and recent activity on my Codeforces profile:
 
-* **My Codeforces Profile:** `[YOUR-USERNAME](httpss://codeforces.com/profile/YOUR-USERNAME)`
+* **My Codeforces Profile:** `https://codeforces.com/profile/mylavaramsai`
